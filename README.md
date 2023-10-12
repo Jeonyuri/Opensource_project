@@ -10,10 +10,7 @@ Opensource_project
 1. 동작인식 기술
 2. 시선인식 기술(eye-tracking)
 
-기술의 장점
--------
-1. 비용 절감
-2. 편리함
+[OpenCV](https://opencv.org)
 
 __자세한 내용은 제안서 참고__
 
